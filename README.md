@@ -12,7 +12,9 @@ I like building things in Python, from games to real-time data apps and web back
 ### 🛠 Tech I use
 
 **Languages:** Python · C · C++ · JavaScript
+
 **Frameworks & libraries:** Flask · Next.js · Pygame · Tkinter · NumPy · Matplotlib
+
 **Tools:** Git · GitHub · REST APIs · WebSockets · OAuth2
 
 ---
