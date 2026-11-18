@@ -7,17 +7,23 @@ I build software that works with **data**: live market feeds, web backends with 
 
 🧑‍🏫 **Now:** Teaching Assistant at IDEKTEP, teaching kids Python, Arduino and robotics
 
-🌱 **Learning:** backend development with Flask and REST APIs, and the basics of machine learning
+🌱 **Learning:** the basics of machine learning
 
 ---
 
 ### 🛠 Tech I use
 
-**Languages:** Python · C · C++ · JavaScript
+**Languages:** Python · TypeScript · JavaScript · C · C++ · SQL
 
-**Frameworks & libraries:** Flask · Next.js · Pygame · Tkinter · NumPy · Matplotlib
+**Backend:** FastAPI · Flask · SQLAlchemy · REST APIs · OAuth2 / Google sign-in
 
-**Tools:** Git · GitHub · REST APIs · WebSockets · OAuth2
+**Frontend:** Next.js · React
+
+**Data:** NumPy · Matplotlib · WebSockets
+
+**Tools:** Git · GitHub Actions (CI) · pytest · Vitest
+
+**Other:** Pygame · Tkinter
 
 ---
 
@@ -27,7 +33,7 @@ I build software that works with **data**: live market feeds, web backends with 
 |---|---|---|
 | [**PIXEL SHOT**](https://github.com/pringpromn-lang/pixelshot) | 2D action platformer with 5 levels, enemy AI, and a built-in stats dashboard that tracks every play session | Python, Pygame, OOP, CSV |
 | [**Crypto Dashboard**](https://github.com/pringpromn-lang/Crypto-Dashboard-final_project-) | Real-time crypto dashboard with live prices, candlestick chart, order book, and EMA/RSI buy-sell signals | Python, WebSocket, REST API, threading, Matplotlib |
-| [**Discord Login (Flask)**](https://github.com/pringpromn-lang/ISP-Project) | Web app with "Login with Discord" using OAuth2 and sessions | Python, Flask, OAuth2 |
+| [**Course Support Dashboard**](https://github.com/ISP-ku/coding-kradad) 👥 | Team of 4, I'm the top contributor. Full-stack course platform for lecturers, TAs and students: KU Google sign-in, role-based access, homework, activities, consultations and FAQ | FastAPI, SQLAlchemy, Next.js, TypeScript, pytest, GitHub Actions |
 | [**Library Management**](https://github.com/pringpromn-lang/library-management-oop) | The same library system written two ways, procedural and OOP, with tests | Python, OOP, testing |
 
 ---
