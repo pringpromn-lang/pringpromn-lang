@@ -1,10 +1,12 @@
 # Hi, I'm Sirapat (Get) 👋
 
 Year 2 **Software Engineering** student at **Kasetsart University**, Bangkok.
-I like building things in Python, from games to real-time data apps and web backends, and I'm getting into **data and AI**.
+I build software that works with **data**: live market feeds, web backends with secure login, and apps that turn raw numbers into charts and insights. Next, I want to use that data to build **AI and machine learning** projects.
 
 🔭 **Looking for:** a software / backend / data internship in Bangkok (onsite or remote), during semester breaks and summer
+
 🧑‍🏫 **Now:** Teaching Assistant at IDEKTEP, teaching kids Python, Arduino and robotics
+
 🌱 **Learning:** backend development with Flask and REST APIs, and the basics of machine learning
 
 ---
